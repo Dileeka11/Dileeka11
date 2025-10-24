@@ -1,72 +1,287 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=180&section=header&text=Dileeka%20Supun&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Data%20Science%20Enthusiast%20|%20Innovator&descAlignY=51&descAlign=50"/>
+<!-- Animated Header with Gradient Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Supun%20Dileeka&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=52&descAlign=50&descSize=18"/>
 
-<!-- Typing Animation -->
+<!-- Dynamic Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Dileeka+Supun;Crafting+Smart+Software+Solutions+💡;Exploring+AI+%26+Data+Science+📊;Turning+Ideas+into+Reality+Through+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hey+there!+I'm+Supun+Dileeka;%F0%9F%9A%80+Building+Innovative+Software+Solutions;%F0%9F%93%B1+Mobile+%7C+%F0%9F%8C%90+Web+%7C+%F0%9F%A4%96+AI+Development;%E2%9A%A1+Vibe+Coding+%7C+%F0%9F%8E%AE+Gaming+%7C+%F0%9F%A7%A0+AI+Exploration" alt="Typing Animation" />
 </p>
 
-<!-- Profile Views Counter -->
+<!-- Animated Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dileeka11&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dileeka11?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Dileeka11&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dileeka11?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dileeka11?label=Stars&style=for-the-badge&color=00d9ff&logo=github" alt="Stars" />
 </p>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 🚀 About Me
 
-```javascript
-const dileeka = {
-    title: "Software Engineer | Data Science Enthusiast",
-    location: "Sri Lanka 🇱🇰",
-    education: "BSc (Hons) in Software Engineering - Cardiff Metropolitan University",
-    currentFocus: ["AI Integration", "Full Stack Development", "Data Analysis"],
-    expertise: ["Web Development", "System Design", "Machine Learning"],
-    interests: ["Building Innovative Systems", "Learning New Tech", "Problem Solving"],
-    funFact: "I turn caffeine into code and ideas into solutions ☕💻"
+```typescript
+const supunDileeka = {
+    name: "Supun Dileeka",
+    username: "Dileeka11",
+    location: "Awissawella, Sri Lanka 🇱🇰",
+    role: "Software Engineer",
+    
+    currentlyLearning: [
+        "Mobile Development 📱",
+        "Web Development 🌐", 
+        "System Development 💻",
+        "AI Development 🤖"
+    ],
+    
+    passions: [
+        "Vibe Coding ⚡",
+        "Gaming 🎮",
+        "AI Innovation 🧠",
+        "Building Cool Stuff 🚀"
+    ],
+    
+    workingOn: "Creating amazing user experiences",
+    collaboration: "Open for exciting projects!",
+    
+    funFact: "I code with vibes, game for fun, and explore AI for the future! 🌟",
+    
+    lifePhilosophy: "Code. Create. Innovate. Repeat. 🔄"
 };
+```
+
 <div align="center">
-🎓 Currently Exploring
-<img src="https://img.shields.io/badge/Data_Science-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Machine_Learning-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Web_Development-9B59B6?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Applications-95E1D3?style=for-the-badge&logo=ai&logoColor=white"/> </div>
-🛠 Tech Stack
-<div align="center">
-💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,php,cs,cpp,html,css&theme=dark" />
-🌐 Web Technologies
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,nodejs,express,mysql,mongodb&theme=dark" />
-🤖 AI & Data Science Tools
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda&theme=dark" />
-🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,docker,postman&theme=dark" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=fff" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" /> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&hide_border=true" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=fff" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileeka11&theme=radical&utcOffset=5.5" /> </div>
-🏆 Achievements & Trophies
-<div align="center"> <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dileeka11&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" /> <p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> </div>
-💼 Featured Projects
-<div align="center"> <a href="https://github.com/Dileeka11"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileeka11&repo=Smart-Fruit-Checkout-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" /> </a> <a href="https://github.com/Dileeka11"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileeka11&repo=Care-Compass-Hospital-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" /> </a> </div>
-🎯 Focus Areas
-<div align="center">
-Field	Description
-💻 Software Development	Web apps, management systems, REST APIs
-🤖 AI & ML	Predictive models, intelligent automation
-📊 Data Science	Data cleaning, visualization, and analysis
-⚙ System Design	Scalable architecture and backend logic
+
+### 🎯 Current Focus
+
+<img src="https://img.shields.io/badge/Mobile_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Web_Development-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/AI_Development-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/System_Architecture-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1a1a1a"/>
 
 </div>
-🌐 Let's Connect!
-<div align="center"> <a href="https://www.linkedin.com/in/dileeka-supun"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:dileekasupun@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Dileeka11"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://twitter.com/"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://discord.com/users/your-discord"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a>
-📬 Open for Opportunities
-<img src="https://img.shields.io/badge/Open_to-Internships-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Available_for-Software_Projects-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Looking_for-Data_Science_Roles-7C3AED?style=for-the-badge" /> </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 💻 Tech Stack & Skills
+
 <div align="center">
-💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-😄 Dev Humor
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" /> </div>
-<!-- Animated Footer --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/> <div align="center">
-🌟 Show some ❤ by starring a few repositories!
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" /> <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /> <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" /> </div> ```
+
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,typescript,figma&theme=dark&perline=6" />
+
+### ⚙️ Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,dotnet,php,laravel&theme=dark&perline=7" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=java,androidstudio,react&theme=dark&perline=3" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3" />
+
+### 💾 Programming Languages
+<img src="https://skillicons.dev/icons?i=typescript,java,python,cpp,cs,php&theme=dark&perline=6" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,androidstudio&theme=dark&perline=5" />
+
+</div>
+
+<div align="center">
+
+### 📊 Technology Proficiency
+
+```text
+React & TypeScript    ████████████████████░   95%
+Node.js & Express     ███████████████████░░   90%
+Mobile Development    ██████████████████░░░   85%
+Database Management   ████████████████████░   95%
+AI & ML Concepts      ████████████████░░░░░   75%
+System Architecture   ███████████████████░░   88%
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" alt="GitHub Stats" />
+
+<!-- Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak" />
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" />
+
+<!-- Most Used Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+
+<!-- Productive Time -->
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileeka11&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Dileeka11&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=6&title=Stars,Followers,Commits,Repositories,PullRequest,Issues" />
+
+<!-- 3D Contribution Graph -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🌟 Featured Project
+
+<div align="center">
+
+### 📚 Pahana Edu - Educational Platform
+
+<a href="https://github.com/Dileeka11/Pahana_Edu">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dileeka11&repo=Pahana_Edu&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+</a>
+
+**✨ An innovative educational platform built with modern technologies**
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00D9FF?style=for-the-badge&logo=vercel)](https://github.com/Dileeka11/Pahana_Edu)
+[![Source Code](https://img.shields.io/badge/Source-Code-00D9FF?style=for-the-badge&logo=github)](https://github.com/Dileeka11/Pahana_Edu)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 💼 What I Bring to the Table
+
+<div align="center">
+
+| 🎯 Expertise | 🔧 Technologies | 💡 Approach |
+|--------------|-----------------|-------------|
+| **Full-Stack Development** | React, Node.js, Express, NestJS | Building scalable, efficient solutions |
+| **Mobile Development** | Java, Android Studio, React Native | Creating intuitive mobile experiences |
+| **Backend Architecture** | Spring Boot, .NET, Laravel, PHP | Designing robust backend systems |
+| **Database Management** | MongoDB, MySQL, PostgreSQL | Optimizing data structures & queries |
+| **AI Integration** | Python, TensorFlow concepts | Exploring AI-powered features |
+| **Modern Development** | TypeScript, Git, Agile | Following best practices & standards |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+### 💬 Let's Collaborate & Build Something Amazing!
+
+<a href="https://github.com/Dileeka11">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:dileekasupun11@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.facebook.com/dileeka.supun.71/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+<a href="https://discord.com/users/dileekasupun">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<br><br>
+
+### 🚀 I'm Available For
+
+<img src="https://img.shields.io/badge/Freelance_Projects-00D9FF?style=for-the-badge&logo=freelancer&logoColor=white" />
+<img src="https://img.shields.io/badge/Open_Source-00D9FF?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Collaboration-00D9FF?style=for-the-badge&logo=handshake&logoColor=white" />
+<img src="https://img.shields.io/badge/Full_Time_Opportunities-00D9FF?style=for-the-badge&logo=briefcase&logoColor=white" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+### 💭 Developer Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=00D9FF" alt="Random Dev Quote" />
+
+<br>
+
+### 😄 Coding Humor
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&borderColor=00D9FF" alt="Jokes Card" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+### 📈 Contribution Calendar
+
+<img src="https://ghchart.rshah.org/00D9FF/Dileeka11" alt="Contribution Calendar" width="100%" />
+
+### ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Let's%20connect%20and%20build%20the%20future%20together!&descSize=14&descAlignY=88"/>
+
+<div align="center">
+
+### 🌟 If you like what you see, drop a ⭐ on my repositories!
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+
+<br>
+
+**💙 Happy Coding! 💙**
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" alt="Coding GIF" />
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,24,30&height=2"/>
+
+**© 2025 Supun Dileeka | Dileeka11**
+
+</div>
