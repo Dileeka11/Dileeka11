@@ -136,18 +136,19 @@ System Architecture   ███████████████████�
 
 <div align="center">
 
-<!-- Custom Stats Cards with Enhanced Design -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&border_color=00D9FF&border_radius=15" alt="GitHub Stats" />
+<!-- GitHub Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&border=00D9FF&stroke=00D9FF" alt="GitHub Streak" />
+<!-- Streak Stats -->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak" />
 
-<!-- Custom Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=false&area_color=00D9FF&border_color=00D9FF" alt="Contribution Graph" />
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" />
 
-<!-- Custom Language Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&border_color=00D9FF&border_radius=15&card_width=400" alt="Top Languages" />
+<!-- Most Used Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
 
-<!-- Custom Productive Time -->
+<!-- Productive Time -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileeka11&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
@@ -284,4 +285,11 @@ System Architecture   ███████████████████�
 
 **© 2025 Supun Dileeka | Dileeka11**
 
+<br><br>
+
+<!-- Hide Default GitHub Profile Sections -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1" />
+
 </div>
+
+<br><br><br><br><br><br><br><br><br><br>
