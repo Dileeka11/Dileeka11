@@ -18,10 +18,10 @@
 
 <!-- Enhanced Animated Badges with Glow Effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" alt="Focus" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=handshake&logoColor=white" alt="Collaborations" />
+  <img src="https://komarev.com/ghpvc/?username=Dileeka11&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dileeka11?label=Followers&style=for-the-badge&color=00d9ff&logo=github&labelColor=0a0a0a&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dileeka11?label=Stars&style=for-the-badge&color=00d9ff&logo=github&labelColor=0a0a0a&logoColor=white" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d9ff?style=for-the-badge&labelColor=0a0a0a" alt="Status" />
 </p>
 
 <!-- Animated Tech Icons Carousel -->
@@ -136,19 +136,18 @@ System Architecture   ███████████████████�
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF" alt="GitHub Stats" />
+<!-- Custom Stats Cards with Enhanced Design -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dileeka11&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=00D9FF&border_color=00D9FF&border_radius=15" alt="GitHub Stats" />
 
-<!-- Streak Stats -->
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dileeka11&theme=tokyonight&hide_border=false&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&border=00D9FF&stroke=00D9FF" alt="GitHub Streak" />
 
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&area_color=00D9FF" alt="Contribution Graph" />
+<!-- Custom Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dileeka11&custom_title=📊%20Contribution%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=false&area_color=00D9FF&border_color=00D9FF" alt="Contribution Graph" />
 
-<!-- Most Used Languages -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+<!-- Custom Language Stats -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dileeka11&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8&border_color=00D9FF&border_radius=15&card_width=400" alt="Top Languages" />
 
-<!-- Productive Time -->
+<!-- Custom Productive Time -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dileeka11&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 
 </div>
