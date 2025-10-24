@@ -293,3 +293,7 @@ System Architecture   ███████████████████�
 </div>
 
 <br><br><br><br><br><br><br><br><br><br>
+
+<!-- Transparent cover to hide default GitHub parts -->
+<div style="height:1000px;background-color:#0D1117;"></div>
+
