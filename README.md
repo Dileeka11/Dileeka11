@@ -18,10 +18,10 @@
 
 <!-- Enhanced Animated Badges with Glow Effect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dileeka11&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=0a0a0a" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Dileeka11?label=Followers&style=for-the-badge&color=00d9ff&logo=github&labelColor=0a0a0a&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Dileeka11?label=Stars&style=for-the-badge&color=00d9ff&logo=github&labelColor=0a0a0a&logoColor=white" alt="Stars" />
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d9ff?style=for-the-badge&labelColor=0a0a0a" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=statuspage&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=code&logoColor=white" alt="Focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations-00d9ff?style=for-the-badge&labelColor=0a0a0a&logo=handshake&logoColor=white" alt="Collaborations" />
 </p>
 
 <!-- Animated Tech Icons Carousel -->
