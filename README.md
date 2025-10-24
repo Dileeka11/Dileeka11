@@ -20,39 +20,39 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
-```typescript
-const supunDileeka = {
-    name: "Supun Dileeka",
-    username: "Dileeka11",
-    location: "Awissawella, Sri Lanka 🇱🇰",
-    role: "Software Engineer",
-    
-    currentlyLearning: [
-        "Mobile Development 📱",
-        "Web Development 🌐", 
-        "System Development 💻",
-        "AI Development 🤖"
-    ],
-    
-    passions: [
-        "Vibe Coding ⚡",
-        "Gaming 🎮",
-        "AI Innovation 🧠",
-        "Building Cool Stuff 🚀"
-    ],
-    
-    workingOn: "Creating amazing user experiences",
-    collaboration: "Open for exciting projects!",
-    
-    funFact: "I code with vibes, game for fun, and explore AI for the future! 🌟",
-    
-    lifePhilosophy: "Code. Create. Innovate. Repeat. 🔄"
-};
-```
+<div align="center">
+  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+</div>
+
+<div align="left" style="padding: 20px;">
+
+👨‍💻 **Software Engineer** passionate about creating innovative solutions
+
+🌍 Based in **Awissawella, Sri Lanka** 🇱🇰
+
+🎯 Currently mastering **Mobile Development**, **Web Development**, **System Architecture** & **AI Development**
+
+⚡ I vibe with code, game for fun, and explore AI for the future!
+
+🎮 Passionate about **Gaming**, **AI Innovation** & **Building Cool Stuff**
+
+💼 Working on creating **amazing user experiences** that make a difference
+
+🤝 Open for **exciting projects** and **collaborations**
+
+💡 **Life Philosophy:** *Code. Create. Innovate. Repeat.* 🔄
+
+📫 Reach me at **dileekasupun11@gmail.com**
+
+⚡ **Fun Fact:** I turn ideas into reality, one line of code at a time! 🚀
+
+</div>
+
+<br clear="both"/>
 
 <div align="center">
 
@@ -66,8 +66,6 @@ const supunDileeka = {
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 ## 💻 Tech Stack & Skills
 
@@ -110,8 +108,6 @@ System Architecture   ███████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -135,8 +131,6 @@ System Architecture   ███████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 ## 🏆 GitHub Trophies & Achievements
 
 <div align="center">
@@ -149,8 +143,6 @@ System Architecture   ███████████████████�
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 ## 🌟 Featured Project
 
@@ -171,8 +163,6 @@ System Architecture   ███████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 ## 💼 What I Bring to the Table
 
 <div align="center">
@@ -189,8 +179,6 @@ System Architecture   ███████████████████�
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 ## 🌐 Connect With Me
 
@@ -224,8 +212,6 @@ System Architecture   ███████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 <div align="center">
 
 ### 💭 Developer Quote of the Day
@@ -242,24 +228,15 @@ System Architecture   ███████████████████�
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 <div align="center">
 
 ### 📈 Contribution Calendar
 
 <img src="https://ghchart.rshah.org/00D9FF/Dileeka11" alt="Contribution Calendar" width="100%" />
 
-### ⚡ Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=150&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Let's%20connect%20and%20build%20the%20future%20together!&descSize=14&descAlignY=88"/>
